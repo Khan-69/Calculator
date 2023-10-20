@@ -1,0 +1,22 @@
+body {background-color: rgb(31, 29, 29);}
+
+#H {color: green;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 80px;
+margin-left: 25rem;
+margin-top: 1rem;}
+
+input {background-color: black;
+       color: green;
+       padding: 8px 15px 15px 8px ;
+       border: 2px solid whitesmoke;
+       margin-left: -1rem;
+    margin-top: -10rem;}
+
+h1 {color: green;
+margin-top: 5rem;}      
+
+button {background-color: black;
+        color: green;
+        margin: 6rem 0rem 0rem 5rem;
+        font-size: 20px;}
